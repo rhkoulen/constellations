@@ -1,0 +1,78 @@
+{
+  "plate_radius": 110.0,
+  "marker_radius": 10.36,
+  "markers": [
+    {
+      "x": 0.0,
+      "y": 0.0,
+      "elevated": true,
+      "name": "origin"
+    },
+    {
+      "x": 35.0,
+      "y": -35.707,
+      "elevated": true,
+      "name": "arbitrary triangle for symmetry's sake"
+    },
+    {
+      "x": -35.0,
+      "y": -35.707,
+      "elevated": true,
+      "name": "arbitrary triangle for symmetry's sake"
+    },
+    {
+      "x": 70.763,
+      "y": 56.132,
+      "elevated": false,
+      "name": "Alchiba (alpha-Corvi)"
+    },
+    {
+      "x": 59.770,
+      "y": -53.184,
+      "elevated": false,
+      "name": "Kraz (beta-Corvi)"
+    },
+    {
+      "x": -54.713,
+      "y": 15.315,
+      "elevated": false,
+      "name": "Gienah (gamma-Corvi)"
+    },
+    {
+      "x": -67.021,
+      "y": -50.433,
+      "elevated": false,
+      "name": "Algorab (delta-Corvi)"
+    },
+    {
+      "x": 34.741,
+      "y": 46.226,
+      "elevated": false,
+      "name": "Minkar (epsilon-Corvi)"
+    },
+    {
+      "x": -46.409,
+      "y": 51.137,
+      "elevated": false,
+      "name": "HD 105292 (Corvus adjacent)"
+    },
+    {
+      "x": -21.458,
+      "y": 80.375,
+      "elevated": false,
+      "name": "HD 104337 (TY-Corvi)"
+    },
+    {
+      "x": 15.509,
+      "y": 83.612,
+      "elevated": false,
+      "name": "HD 104307 (Corvus adjacent)"
+    },
+    {
+      "x": 81.468,
+      "y": -3.479,
+      "elevated": false,
+      "name": "HD 107815 (6-Corvi)"
+    }
+  ]
+}
